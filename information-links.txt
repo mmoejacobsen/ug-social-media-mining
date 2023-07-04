@@ -1,0 +1,5 @@
+Link to .gitignore explination:
+https://medium.com/@cruble/a-quick-guide-for-making-a-git-ignore-gitignore-e645d70676b2
+
+Link to virtual environments in Python:
+https://medium.com/gitconnected/venv-vs-virtualenv-in-python-which-to-use-3708d93a95e8
