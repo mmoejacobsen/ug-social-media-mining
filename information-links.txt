@@ -3,3 +3,7 @@ https://medium.com/@cruble/a-quick-guide-for-making-a-git-ignore-gitignore-e645d
 
 Link to virtual environments in Python:
 https://medium.com/gitconnected/venv-vs-virtualenv-in-python-which-to-use-3708d93a95e8
+
+Inspiration:
+https://www.kaggle.com/code/rohit0906/stock-sentiment-analysis-using-news-headlines/notebook
+https://www.kaggle.com/code/gauravduttakiit/stock-price-movement-based-on-news-headline/notebook
